@@ -2,7 +2,7 @@
 
 I made this little project over the weekend because I wanted to practice some basic JS and finally figure out how to center a div properly (shoutout to Flexbox). 
 
-It's a simple 5-letter word guessing game with a "hacker" vibe. I hardcoded the words because setting up a whole API for a Sunday project felt like way too much effort lol.
+
 
 ### How to run it:
 1. Just open `beest PROJECT.html` in any browser.
@@ -20,4 +20,4 @@ It's a simple 5-letter word guessing game with a "hacker" vibe. I hardcoded the 
 - [ ] Maybe add more words to the array.
 - [ ] Make the colors even more neon.
 
-Anyway, hope it works. Don't look at the code too closely, it's a bit messy but it gets the job done!
+Anyway, hope it works. Do look at the code too closely, it's a bit messy but it gets the job done!
